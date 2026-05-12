@@ -1,2 +1,6 @@
-# global-retailer-sales-dashboard-
-Global Retailer Sales &amp; Profit Dashboard using Excel and Tableau
+# Global Retailer Sales & Profit Dashboard
+
+This project analyzes retailer sales and profit data using Excel and Tableau.
+
+Project Link:
+https://public.tableau.com/app/profile/komalika.patil/viz/GlobalRetailerSalesProfitAnalysis/CEODashboard
